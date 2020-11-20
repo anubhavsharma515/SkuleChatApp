@@ -1,3 +1,6 @@
+# Main file 
+# This file will hold the app.run function
+
 from flask import Flask, render_template
 from wtform_fields import *
 
